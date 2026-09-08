@@ -1,0 +1,11 @@
+{
+ "kind": "tracker",
+ "engine": "https://github.com/shaelsrv/ModelMeetsReality",
+ "engine_commit": "56a33c1",
+ "tier": "proven",
+ "one_line": "says which signals lead and which lag",
+ "premise_shape": "In <domain>, <signal A> moves before <signal B> by <lag>, because <mechanism>.",
+ "falsifier": "B moves first, or the stated lag fails",
+ "predict_frame": "Report the current values of the leading and lagging signals and the observed gap. State what the lead predicts for the lagging signal, with a date.",
+ "assess_frame": "Did the leading signal move first this period, and did the lag hold?"
+}
